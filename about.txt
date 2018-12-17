@@ -1,0 +1,1 @@
+This is sample program of a shell script created using the concept of functions and conditional statements.
